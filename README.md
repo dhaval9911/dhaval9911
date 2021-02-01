@@ -1,7 +1,5 @@
-### Hi there 👋
+## Hello There People 👋
 
-
-Here are some ideas to get you started:
 
 - 🔭 Currently Persuing BSC-Cyber Security
 - 🌱 A Gujrat University Student
