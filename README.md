@@ -2,5 +2,5 @@
 
 
 - 🔭 Currently Persuing BSC-Cyber Security
-- 🌱 A Gujrat University Student
+- 🌱 A Gujarat University Student
 - :smile: 
