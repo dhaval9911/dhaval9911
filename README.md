@@ -1,6 +1,6 @@
 ## Hello There People 👋
 
 
-- 🔭 Currently Persuing BSC-Cyber Security
+- 🔭 Currently Working As A Site Reliability Engineer
 - 🌱 A Gujarat University Student
 - :smile: 
